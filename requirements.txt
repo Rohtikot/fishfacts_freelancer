@@ -11,3 +11,6 @@ tqdm~=4.67.1
 nautical_calculations~=1.0.1
 matplotlib~=3.10.1
 requests~=2.32.4
+beautifulsoup4~=4.14.3
+scikit-learn~=1.7.2
+pyproj~=3.7.1
