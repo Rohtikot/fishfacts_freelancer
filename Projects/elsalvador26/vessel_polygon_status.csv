@@ -1,0 +1,603 @@
+id,name,processed
+7,Tasiilaq,True
+8,Gamli Fagraberg,True
+9,Trondur i Gotu,True
+10,Gamli Jupiter,True
+11,Norðborg,True
+12,Alina,True
+13,Gardar,True
+14,Tummas T,True
+15,Norðingur,True
+113,Sjarmør,True
+118,Slottstein,True
+121,Asbjørn Selsbane,False
+124,Nordfisk,False
+126,Kvannøy,False
+127,Senior,False
+130,Rødholmen,False
+132,M. Ytterstad,False
+140,Radek,False
+141,Alf,False
+142,Nybo,False
+145,Birita,False
+146,Havstål,False
+156,Svanur RE 45,False
+157,Fiskeskjer,False
+158,Teigenes,False
+159,Leinebjørn,False
+160,Rockall,False
+161,Kings Bay,False
+162,Eros M-29-HØ,False
+163,Unity FR165,False
+164,Smaragd M-65-HØ,False
+165,Havdrøn,False
+167,Sjøbris,False
+168,Christina E,False
+169,Jorunn K,False
+170,Centinela I,False
+174,Katrin Jóhanna,False
+177,Ingrid Majala,False
+178,Fiskebank,False
+179,Dyrnesvåg,False
+181,Sæbjørn,False
+182,Vestfart,False
+183,Fiskebas,False
+186,Fonnes,False
+187,Harvest,False
+188,Straumberg,False
+189,Vendla,False
+191,Steinevik,False
+192,Rut (RU),False
+193,Harald Johan,False
+195,Manon,False
+197,Ran (FO),False
+198,Gullberg VE-292,False
+199,Brennholm,False
+200,Talbor,False
+201,Eldjarn,False
+202,Zenit,False
+203,Bømmelfjord,False
+204,Pionero I,False
+205,Alsey VE 2,False
+209,Storeknut,False
+210,Trygvason,False
+211,Lønningen,False
+212,Elisabeth,False
+213,Bømmelbas,False
+214,Brennholm 2,False
+219,Krossøy,False
+220,Svanaug Elise,False
+221,Morten Einar,False
+224,Grimsholm T-72-T,False
+225,Røttingøy,False
+226,Krossfjord,False
+227,Havglans,False
+228,Roaldsen,False
+229,Hargo,False
+230,Vea (Peru),False
+239,Venus,False
+240,Beitir,False
+241,Vikingur,False
+242,Bardi NK120,False
+243,Bjarni Olafsson,False
+244,Adalsteinn Jonsson,False
+245,Ango,False
+246,Andrea L,False
+247,Vestmenningur,False
+248,Sigurdur,False
+250,Viking 1,False
+252,Ísleifur,False
+254,Huginn,False
+257,Asgrimur Halldorsson SF 200,False
+258,Jupiter VE 161,False
+260,Zvezda Severa,False
+310,Junior HG 365,False
+311,Themis,False
+312,Borgarin,False
+313,Jon Kjartansson SU111,False
+339,Atlant,False
+346,Gambler,False
+357,Hoyvík,False
+359,Arctic Voyager,False
+360,Gudrun Torkelsdottir,False
+361,GRETHE HVIID,False
+363,Ola Ryggefjord,False
+364,Sudurey,False
+365,Hoffell SU 80,False
+366,Cattleya,False
+367,Herøyfjord,False
+369,Gøtunes,False
+370,Slaatterøy,False
+371,Beinur,False
+372,Ceton,False
+373,Gitte Henning,False
+375,Ellen Bach,False
+376,Helen Mary,False
+382,Annie Hillina,False
+383,Maartje Theadora,False
+416,Prins Bernhard,False
+419,Sunbeam,False
+420,Gitte,False
+421,Ligrunn II,False
+422,Chilindrin Primero,False
+423,Jupiter,False
+424,Chris Andra,False
+425,Margret EA 710,False
+426,Quantus,False
+427,Lilly Maud,False
+430,Havilah,False
+431,Gerda Marie,False
+432,Antares LK419,False
+433,Voyager,False
+434,Heimaey,False
+435,Grateful,False
+436,Stefanie M (UK),False
+438,Wiron 5,False
+439,Ostronovoy 15,False
+440,Sheanne,False
+441,Olgarry,False
+442,Father McKee,False
+443,Brendelen,False
+444,Western Endeavour,False
+445,Felucca,False
+446,Vigilant,False
+447,Atlantic Challenge D642,False
+448,Pacelli,False
+449,Tina Jeanette,False
+450,Ostronovoy 14,False
+451,Paula,False
+452,Western Viking,False
+454,Gilija,False
+472,Annelies Ilena,False
+473,Dirk Dirk,False
+474,Alida,False
+475,Zeeland,False
+476,Frank Bonefaas,False
+477,Carolien,False
+478,Afrika,False
+495,Willem Van Der Zwan,False
+561,Polar Amaroq,False
+570,Tuneq,False
+577,Margiris,False
+579,Wiron 6,False
+713,Clipperton (SW),False
+714,Nordsjøbas,False
+715,Polar I,False
+738,Sighvatur Bjarnason VE81,False
+746,Havbas,False
+753,Segla,False
+758,Skagøysund,False
+759,Adriana,False
+761,Skulbaren,False
+766,Slettholmen,False
+767,Aurora Australis,False
+768,Einar Erlend,False
+774,Ketlin,False
+777,Vestbris,False
+782,Hepsøhav,False
+785,Runing,False
+787,Storm 1,False
+789,Orfjord,False
+790,Orskjær,False
+803,Emma,False
+810,Lise Beate,False
+814,Hillersøy,False
+817,Utsyn,False
+823,Sulefisk,False
+824,Frekøy Viking,False
+828,Brattskjær,False
+829,Humbak,False
+830,Vesturbúgvin,False
+831,Tunfisk,False
+832,Håflu,False
+836,Atløy Viking,False
+837,Straumbas,False
+847,Fagraberg,False
+850,Glomskar,False
+855,Jette Kristine,False
+863,NORTH SEA (OLD),False
+880,Courage af Skillinge,False
+882,Randi,False
+885,Vestland (SW),False
+886,Laguna,False
+888,SVANVIK,False
+890,Odeskar,False
+891,Astrid (MA),False
+892,WESTERÖ,False
+893,Ahlma-West,False
+894,Mostein,False
+896,Stella Nova IX,False
+898,Monsun (DK),False
+901,Bristol,False
+902,Ahlma (S),False
+903,Neptun (DK),False
+939,Fram,False
+954,Research,False
+958,Ocean Star FR 77,False
+974,Wiron 1,False
+975,Cap Blanc,False
+985,Brusoyskjar,False
+1009,Strand Senior,False
+1010,Taits,False
+1094,Hovden Viking,False
+1095,Rav,False
+1099,Nordhavet,False
+1152,Gerd Julie,False
+1161,Menhaden,False
+1310,Trondskjær,False
+1449,Knut Olav,False
+1500,Eysturbúgvin,False
+1501,INSE,False
+1502,MINGE,False
+1507,Vastfjord II,False
+1508,Neptune,False
+1520,Polar Ammassak,False
+1526,SKUDE,False
+1529,Odd Lundberg,False
+1530,Cetus,False
+1549,Adenia,False
+1555,Zephyr,False
+1575,Polar,False
+1585,Western Chieftain,False
+1586,Tove,False
+1587,Aine,False
+1589,Dano,False
+1591,Hanne,False
+1607,Kap,False
+1724,Vaarheim,False
+1806,Thea Elise,False
+1926,Harto,False
+1943,Gunnar Langva,False
+1995,Lurøybas,False
+1999,Charisma,False
+2117,Lunar Bow,False
+2140,Orka,False
+2146,Scombrus (F),False
+2150,Sjohav,False
+2526,Torland GG207,False
+2533,Cadiz (DK),False
+2929,Mokstein,False
+2952,Girl Stephanie,False
+3278,Klara B,False
+3313,Tor-On,False
+3338,Kristin (DE),False
+3341,Roxen,False
+3479,Resolute,False
+3772,Libas,False
+3816,Havskjer,False
+3819,Altaire,False
+3820,Astrid S264,False
+3821,Christian í Grótinum (deleted),False
+3822,Vilhelm Thorsteinsson,False
+3823,Borkur,False
+3825,Antarctic D 97,False
+3826,Astrid Marie,False
+3829,Asbjørn,False
+3831,Artemis,False
+3842,Skår Senior,False
+3843,Sunny Lady,False
+3844,Selvåg Senior,False
+3845,Veronica,False
+3846,Lauren,False
+3847,Leila,False
+3848,Hardhaus,False
+3955,Oddeyrin,False
+4001,Vikingbank,False
+4015,Isafold,False
+4093,Elias Johan,False
+4101,Liafjord,False
+4208,Vikanøy,False
+4212,Gollenes,False
+4240,Ginneton,False
+4243,Skipsholmen,False
+4244,Vea R-30-K,False
+4248,Christina S,False
+4271,Arnøytind,False
+4288,Sille Marie,False
+4292,Trønderhav,False
+4356,Havsnurp,False
+4539,Havfisk,False
+4540,Knester,False
+4544,Christian Í Grótinum,False
+4710,Hakon TH250,False
+4711,Høgaberg,False
+4712,Finnur Fríði,False
+4713,Herøyhav,False
+4714,Jarle Berg,False
+4849,Trønderbas,False
+4883,Carmona,False
+9257,Westfjord,False
+12288,Antarctic LK 145,False
+13017,Havfisk,False
+1,Snæfell,False
+2,Enniberg,False
+3,Melkart-7,False
+5,Arctic Viking,False
+6,Arctic Lion,False
+107,Arctic Swan,False
+108,Gadus Poseidon,False
+109,Gadus Neptun,False
+110,Melkart-5,False
+111,Rypefjord,False
+112,Hera,False
+116,J. Bergvoll,False
+117,Synes,False
+119,Friosur XI,False
+128,Havtind,False
+129,Vesttind,False
+134,Holmøy,False
+136,Gadus Njord,False
+139,Prestfjord,False
+143,Ishavet,False
+149,Atlantic Viking,False
+150,Molnes,False
+151,Nordstar,False
+152,Atlantic Star,False
+154,Havstrand,False
+155,Roaldnes,False
+166,Remøy,False
+171,Nord Tral,False
+180,Ramoen,False
+263,Vigri RE,False
+264,Anik,False
+265,Hrafn Sveinbjarnarson GK255,False
+266,Arnar HU,False
+268,Zapolyarye,False
+269,Gnupur,False
+271,Orfirisey,False
+272,Nordbas,False
+273,Blængur NK,False
+274,Gudmundur i Nesi,False
+275,Julius Geirmundsson,False
+335,Langøy,False
+336,Granit,False
+344,Jawhart Al Wusta,False
+355,Nordtind,False
+362,Ocean Tiger,False
+377,Mark,False
+378,Cuxhaven,False
+379,Kapitan Bulatov,False
+381,Te Hikita,False
+386,Reval Viking,False
+387,Steffano,False
+388,Joseph Roty 2,False
+391,Harvest Cap Nord,False
+392,Klondyke 139,False
+415,Emeraude,False
+428,DW Nova,False
+429,Lodairo,False
+453,NIDA,False
+455,Taurus (LT),False
+456,Auseklis,False
+462,SENATOR,False
+470,SALDUS,False
+479,Santa Princesa,False
+480,Vasiliy Filippov,False
+487,Coimbra,False
+493,Cidade De Amarante,False
+510,Esperanza Menduina,False
+511,Arosa Nueve,False
+546,Monte Meixueiro,False
+554,Santa Princesa,False
+556,Akamalik,False
+557,Barentsburg,False
+558,Polar Qaasiut,False
+560,Kiliutaq,False
+562,Polar Nanoq,False
+563,Polar Princess,False
+564,Kanin Nos,False
+565,Lokys,False
+566,Tomas Tor­valds­son,False
+567,Svend C,False
+568,Solborg,False
+571,Tasermiut,False
+576,Kem,False
+578,Rio Solis IV,False
+595,Efim Kostyukov,False
+598,Alferas,False
+599,Aliot,False
+602,Aleksandr Mironenko,False
+603,Aquamarine,False
+604,Arkhangelsk,False
+605,Belomorsk,False
+607,Bootes,False
+608,Borey,False
+610,Boris Zaytsev,False
+611,Brest,False
+613,Chernigov,False
+614,Distinkt,False
+615,Forpost,False
+619,Guldrangur,False
+625,Kapitan Demidenko,False
+626,Kapitan Dolgikh,False
+627,Kapitan Gerashcenko,False
+628,Karelia,False
+629,Kapitan Gromtsev,False
+631,Kapitan Nazin,False
+633,Karacharovo,False
+634,Karelia II,False
+635,Kepromar,False
+636,Kholmogory,False
+638,Polarpesca,False
+642,Martha Arendsee,False
+643,Mekhanik Sergey Agapov,False
+645,Melkart,False
+646,Melkart-2,False
+647,Melkart-3,False
+648,Mirakh,False
+649,Mys Chikhacheva,False
+650,Mys Gvozdeva,False
+651,Mys Korsakova,False
+655,Mys Sheltinga,False
+656,Mys Slepikovskogo,False
+658,Nord West,False
+659,Nordkap (RU),False
+660,Obeliai,False
+661,Oksino,False
+665,Orvar,False
+666,Osveyskoye,False
+668,Pechora,False
+671,Proekt,False
+672,Rossyoki,False
+675,Rybak,False
+676,Saami,False
+677,Sayda,False
+678,Polarpesca II,False
+680,Sevryba-1,False
+683,Strelets,False
+684,Taurus (RU),False
+686,Tezey,False
+689,Tor,False
+690,Vasiliy Golovnin,False
+692,Vega,False
+693,Baiga,False
+694,Viking,False
+697,Vitus Bering,False
+698,Vityaz,False
+700,Vladimir Zagoskin,False
+701,Yagry,False
+702,Yakov Gunin,False
+703,Zakhar Sorokin,False
+705,Zvezda Murmana,False
+706,Sankt-Peterburg,False
+707,Mark Liubovskii,False
+708,Proekt-1,False
+710,Båtsfjord,False
+711,Kågtind II,False
+712,Kirkella,False
+716,Kapitan Durachenko,False
+717,Solberg,False
+732,Kildin MK-1969,False
+747,Doggi,False
+799,Haltentrål,False
+905,Northern Eagle (RU),False
+906,Shpitcbergen,False
+953,Tsefey,False
+957,Melkart-4,False
+959,Regina C,False
+973,Merike,False
+978,Andre Leduc,False
+979,Bressay Bank,False
+981,Cap Saint Georges,False
+995,Boris Syromyatnikov,False
+996,Ester,False
+997,Yantarnyy,False
+998,Zamoskvorechye,False
+999,Staryy Arbat,False
+1000,Armenak Babaev,False
+1001,Arctica,False
+1003,Bratya Stoyanovy,False
+1004,Lazurnyy,False
+1005,Kurshskaya Kosa,False
+1006,Baltiyskaya Kosa,False
+1007,Lira,False
+1008,Valeriy Dzhaparidze,False
+1011,Markus,False
+1013,Tuullik,False
+1021,Arctic Endurance,False
+1024,Karine H,False
+1026,Hvítanes,False
+1028,Mersey Phoenix,False
+1032,Dorado II,False
+1033,Northern Osprey III,False
+1035,Vilkas,False
+1036,Saputi,False
+1039,Northern Glacier,False
+1185,Vityaz,False
+1189,Sisimiut,False
+1195,Iosif Shmelkin,False
+1198,Aleksey Anichkin,False
+1255,Komandor,False
+1284,Polar Arfivik,False
+1368,Centurion Del Atlantico,False
+1432,Nivenskoye,False
+1433,FLIPPER X,False
+1436,Lazurnyy,False
+1437,Kozlovo,False
+1438,Kapitan Rogozin,False
+1442,Ostankino,False
+1443,Ozherelye,False
+1447,Kapitan Sulimov,False
+1448,Daria,False
+1452,Almak,False
+1453,Aqissiaq II,False
+1461,Olga 1,False
+1506,Izumrud,False
+1554,Polar Nattoralik,False
+1579,Avataq,False
+1697,Koyda 2,False
+1931,Kappin,False
+1973,Egunabar,False
+1977,Hafnarey,False
+1987,Nerey,False
+1988,Nerpa,False
+1990,Severnaya Zemlya,False
+1991,Severyanin II,False
+2022,Irvas,False
+2026,Tytuvenai,False
+2053,Kongsfjord,False
+2057,Svyatoy Spiridon,False
+2135,Senja,False
+2270,Ametist,False
+2277,Voykovo,False
+2280,Galatis,False
+2327,Dolphin,False
+2349,Krym,False
+2353,Neva,False
+2359,Oma,False
+2923,Therney,False
+3444,Hermes,False
+3460,Sunderøy,False
+3463,Laima,False
+3803,Barentsevo More,False
+3832,Nataarnaq,False
+3833,Gadus,False
+3834,Emerald,False
+3836,Norvezhskoe More,False
+3854,Akraberg,False
+3855,Breidtind,False
+3856,Baldvin Njalsson,False
+4043,Magne Arvesen,False
+4068,Tuugaalik,False
+277,Ilivileq,False
+278,Otto N Thorlaksson VE 5,False
+279,Malmey SK 1,False
+280,Ljosafell SU 70,False
+281,Sidia I,False
+282,Oukaume,False
+284,Klakkur SK 5,False
+286,Elizabeth H,False
+287,Kúrberg,False
+291,Soley Sigurjons GK 200,False
+292,Ibno Al Khattib,False
+293,Múlaberg SI 22,False
+314,Drangey,False
+572,Bjorg,False
+573,Breki VE61,False
+147,O. Husby,False
+153,Klakkur,False
+297,Max GK-15,False
+302,Núpur BA 690,False
+304,Nupur BA 69,False
+305,Hrafn,False
+307,Grímsi,False
+308,Erling KE140,False
+343,Loran,False
+345,Leinebris Jr.,False
+559,Masilik,False
+581,Kambur,False
+584,Veidar,False
+601,Antias,False
+623,Kapelan,False
+632,Kaprodon,False
+125,Haraldson,False
+133,Arctic Eagle,False
+176,Vima,False
+208,Kingfisher,False
+338,Polar Enterprise,False
+341,Tromsbas,False
+347,Northeastern,False
+349,Prowess,False
+352,RØSTNESVÅG,False
+583,Arctic Opilio,False
+618,Gemma,False
