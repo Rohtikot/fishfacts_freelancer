@@ -3,8 +3,9 @@ import pandas as pd
 from sqlalchemy import text
 
 from src.db import connection_settings
+from utils.execution_timer import timeit
 
-
+@timeit
 def get_vessel_locations_to_data_frame(vessel_id: int, start: datetime, end: datetime) -> pd.DataFrame:
     sql = ("SELECT "
            "    vessel_id,"
@@ -19,7 +20,7 @@ def get_vessel_locations_to_data_frame(vessel_id: int, start: datetime, end: dat
            f"   AND timestamp < '{end:%Y-%m-%d %H:%M:%S}'"
            "ORDER BY timestamp")
 
-    with connection_settings.connect_to_database().connect() as connection:
+    with connection_settings.connect_to_historical().connect() as connection:
         df = pd.read_sql(
             sql,
             connection,
