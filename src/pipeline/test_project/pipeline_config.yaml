@@ -1,0 +1,14 @@
+steps:
+  - name: split_tracks
+    params:
+      max_gap: '4h'
+
+  - name: resample_segment
+    params:
+      freq: '10min'
+
+  - name: calculate_distance
+
+  - name: compute_speed
+
+  - name: assign_zone_labels
